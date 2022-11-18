@@ -1,0 +1,6 @@
+.hero__maindiv{
+    background: url("./../../images/banner.jpg");
+    background-position: 0;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
